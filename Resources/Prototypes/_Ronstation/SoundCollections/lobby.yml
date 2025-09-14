@@ -1,0 +1,7 @@
+#issues with lobby music playback, placed in \Resources\Prototypes\SoundCollections\lobby.yml until resolved
+
+#- type: soundCollection
+  #id: LobbyMusic
+  #files:
+   # - /Audio/_Ronstation/Lobby/One_Last_Battle.ogg
+   # - /Audio/_Ronstation/Lobby/Dawson's_Christian.ogg
