@@ -1,9 +1,9 @@
-- files: "Dawson's_Christian.ogg"
+- files: ["Dawson's_Christian.ogg"]
   license: "Custom"
   copyright: "Dawson's Christian by Vic Tyler is used with explicit permission from the publisher Prometheus Music, and is specified to be attributed properly. Converted from .mp3 to .ogg"
   source: "https://www.prometheus-music.com/"
   
-- files: "One_Last_battle.ogg"
+- files: ["One_Last_battle.ogg"]
   license: "Custom"
   copyright: "One Last Battle by Vic Tyler is used with explicit permission from the publisher Prometheus Music, and is specified to be attributed properly. Converted from .mp3 to .ogg"
   source: "https://www.prometheus-music.com/"
